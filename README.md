@@ -1,6 +1,6 @@
 # Graph_Cut_Images
 
-This Implemnetation follows Compositing along the minimum seam between two images ([Kwatra, et al.] (https://www.csee.umbc.edu/~adamb/641/resources/GraphcutTextures.pdf); (https://www.cc.gatech.edu/cpl/projects/graphcuttextures/)).
+This Implemnetation follows Compositing along the minimum seam between two images [Kwatra, et al.] https://www.csee.umbc.edu/~adamb/641/resources/GraphcutTextures.pdf <br /> https://www.cc.gatech.edu/cpl/projects/graphcuttextures/.
 
 The Implmentation is in Python <br />
 
