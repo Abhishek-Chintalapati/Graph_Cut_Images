@@ -8,13 +8,13 @@ The Implmentation is in Python
 
 I used the follwing modules with latest versions -- 
 
-import math
-from skimage import io, util
-import heapq
-import matplotlib.pyplot as plt
-import json
-from cmath import inf
-from turtle import pd
-from unittest.mock import patch
-import numpy as np
+import math <br />
+from skimage import io, util <br />
+import heapq <br />
+import matplotlib.pyplot as plt <br />
+import json <br />
+from cmath import inf <br />
+from turtle import pd <br />
+from unittest.mock import patch <br />
+import numpy as np <br />
 import os
